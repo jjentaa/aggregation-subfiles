@@ -1,0 +1,2 @@
+pmts_date_1107D
+ description : Payment date for an active contract according to credit bureau (num_group1 - contract, num_group2 - payment).

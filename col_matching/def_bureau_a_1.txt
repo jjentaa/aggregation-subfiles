@@ -1,0 +1,22 @@
+classificationofcontr_13M
+ description : Classificiation of the active contract.
+classificationofcontr_400M
+ description : Classificiation of the closed contract.
+contractst_545M
+ description : Contract status.
+contractst_964M
+ description : Contract status of terminated credit contract.
+description_351M
+ description : Categorization of clients by credit bureau.
+financialinstitution_382M
+ description : Name of financial institution that is linked to a closed contract.
+financialinstitution_591M
+ description : Financial institution name of the active contract.
+purposeofcred_426M
+ description : Purpose of credit for active contract.
+purposeofcred_874M
+ description : Purpose of credit on a closed contract.
+subjectrole_182M
+ description : Subject role in active credit contract.
+subjectrole_93M
+ description : Subject role in closed credit contract.

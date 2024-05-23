@@ -1,0 +1,10 @@
+addres_district_368M
+ description : District of the person's address.
+addres_zip_823M
+ description : Zip code of the address.
+conts_role_79M
+ description : Type of contact role of a person.
+empls_economicalst_849M
+ description : The economical status of the person (num_group1 - person, num_group2 - employment).
+empls_employer_name_740M
+ description : Employer's name (num_group1 - person, num_group2 - employment).

@@ -1,0 +1,6 @@
+amount_4527230A
+ description : Tax deductions amount tracked by the government registry.
+name_4527232M
+ description : Name of employer.
+recorddate_4527225D
+ description : Date of tax deduction record.

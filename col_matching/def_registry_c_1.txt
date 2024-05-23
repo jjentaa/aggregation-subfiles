@@ -1,0 +1,6 @@
+employername_160M
+ description : Employer's name.
+pmtamount_36A
+ description : Tax deductions amount for credit bureau payments.
+processingdate_168D
+ description : Date when the tax deduction is processed.

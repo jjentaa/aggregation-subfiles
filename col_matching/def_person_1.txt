@@ -1,0 +1,26 @@
+contaddr_district_15M
+ description : Zip code of a contact person's address.
+contaddr_zipcode_807M
+ description : Zip code of contact address.
+education_927M
+ description : Education level of the person.
+empladdr_district_926M
+ description : District where the employer's address is located.
+empladdr_zipcode_114M
+ description : Zipcode of employer's address.
+language1_981M
+ description : The primary language of the person.
+personindex_1023L
+ description : Order of the person specified on the application form.
+persontype_1072L
+ description : Person type.
+persontype_792L
+ description : Person type.
+registaddr_district_1083M
+ description : District of person's registered address.
+registaddr_zipcode_184M
+ description : Registered address's zip code of a person.
+role_1084L
+ description : Type of contact role.
+type_25L
+ description : Contact type of a person.

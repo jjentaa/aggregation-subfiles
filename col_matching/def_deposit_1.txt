@@ -1,0 +1,4 @@
+amount_416A
+ description : Deposit amount.
+openingdate_313D
+ description : Deposit account opening date.

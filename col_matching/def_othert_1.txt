@@ -1,0 +1,10 @@
+amtdebitincoming_4809443A
+ description : Incoming debit card transactions amount.
+amtdebitoutgoing_4809440A
+ description : Outgoing debit card transactions amount.
+amtdepositbalance_4809441A
+ description : Deposit balance of client.
+amtdepositincoming_4809444A
+ description : Amount of incoming deposits to client's account.
+amtdepositoutgoing_4809442A
+ description : Amount of outgoing deposits from client's account.
